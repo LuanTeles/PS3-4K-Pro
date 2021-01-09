@@ -3,7 +3,7 @@
 	<spc id="33537" rep="t" multi="o" anno="">
 		<mtrl id="1080424898" mname="Playstation Game Store Default Banner A" from="2008-01-01T00:00:00.000Z" until="2108-01-01T00:00:00.000Z" lastm="2015-06-09T01:56:15.000Z" anno="picks=1">
 			<desc>Playstation®Store Pro</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/video/playstation_video_store.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/video/playstation_game_store.png</url>
 			<target type="u">psgm:install?contentid=UP0001-NP00PKGI3_00-0000000000000000&amp;url=http://dl.dropboxusercontent.com/s/dh90b9yeg6p9t56/PKGi.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
