@@ -3,42 +3,42 @@
 	<spc id="33537" rep="t" multi="o" anno="">
 		<mtrl id="1080424898" mname="Playstation Game Store Default Banner A" from="2008-01-01T00:00:00.000Z" until="2108-01-01T00:00:00.000Z" lastm="2015-06-09T01:56:15.000Z" anno="picks=1">
 			<desc>Playstation®Store Pro</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/video/playstation_game_store.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/playstation_game_store.png</url>
 			<target type="u">psgm:install?contentid=UP0001-NP00PKGI3_00-0000000000000000&amp;url=http://dl.dropboxusercontent.com/s/dh90b9yeg6p9t56/PKGi.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 35" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
 			<desc>Grand Theft Auto V - NPUB31154 - 17.2 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/game/grand_theft_auto_v.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/grand_theft_auto_v.png</url>
 			<target type="u">psgm:install?contentid=UP1004-NPUB31154_00-GTAVDIGITALDOWNL&amp;url=http://zeus.dl.playstation.net/cdn/UP1004/NPUB31154_00/eISFknCNDxqSsVVywSenkJdhzOIfZjrqKHcuGBHEGvUxQJksdPvRNYbIyWcxFsvH.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 8" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
 			<desc>God of War Ascension - NPUA80918 - 34.02 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/game/god_of_war-ascension.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/god_of_war-ascension.png</url>
 			<target type="u">psgm:install?contentid=UP9000-NPUA80918_00-GOWADIGITALVERS1&amp;url=http://zeus.dl.playstation.net/cdn/UP9000/NPUA80918_00/CeOvzDdDsBlXxMLySmhFiqvweBfKTKFUrKsZUjHNojmbkNKpjHetAQykAclglBSM.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 7" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
 			<desc>The Last of Us - NPUA80960 - 136.49 Mb</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/game/the_last_of_us.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/the_last_of_us.png</url>
 			<target type="u">psgm:install?contentid=UP9000-NPUA80960_00-THELASTOFUSDIG01&amp;url=http://zeus.dl.playstation.net/cdn/UP9000/NPUA80960_00/kXLfyOhGFLCBFKeHDopmqkCrYKbIQIAVEBkdtiNpzIyBRebMQCkGigjAGbdyAzNCHjKITHlMLKjOZHLzNebUYyOkJkQMhFMttvVuO.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 16" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
 			<desc>Dark Souls 2: Scholar of the First Sin - NPUB31666 - 6.19 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/game/dark_souls_II.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/dark_souls_II.png</url>
 			<target type="u">psgm:install?contentid=UP0700-NPUB31666_00-DARKSOULS2000002&amp;url=http://zeus.dl.playstation.net/cdn/UP0700/NPUB31666_00/UP0700-NPUB31666_00-DARKSOULS2000002_bg_1_13b86fa2785dc417c6d1baed78b611c3979fd1b8.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<mtrl id="1080778886" mname="Item 12" from="2019-02-28T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2019-04-09T20:52:07.000Z" anno="">
 			<desc>Battlefield 4 - NPUB31148 - 9.92 Gb</desc>
-			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/Playstation%C2%AEStore/media/game/battlefield_4.png</url>
+			<url type="2">http://github.com/LuanTeles/PS3-4K-Pro/raw/main/PlaystationStore/media/game/battlefield_4.png</url>
 			<target type="u">psgm:install?contentid=UP0006-NPUB31148_00-BATTLEFIELD40000&amp;url=http://zeus.dl.playstation.net/cdn/UP0006/NPUB31148_00/gnsgoUCSIRPndWlAAOfdWpeiiaIockZJrXVzdBTJPKFEpHtunBpHGoPHXRqRYSuB.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
